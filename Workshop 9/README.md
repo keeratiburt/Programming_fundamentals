@@ -1,7 +1,7 @@
 
-# Programming-Fundamentals-workshop-10<br>
+# Programming-Fundamentals-workshop-9<br>
 
-**Workshop 10 - pip install**<br>
+**Workshop 9 - pip install**<br>
 รายวิชาพื้นฐานการเขียนโปรแกรม 1/2566<br>
 **3 คะแนน**<br>
 
@@ -15,7 +15,7 @@
 
 **คำชี้แจง**
 1. ให้นักศึกษาดูคลิปวิดีโอโดยคลิกลิงค์ที่โพสให้
-2. ดำเนินการตามที่อาจารย์สอนในคลิปโดยใช้ Google Colab ของตัวเอง <br>
+2. ดำเนินการตามที่อาจารย์สอนในคลิปโดยใช้ Google Colab ของตัวเอง โดยใช้โค้ดจากไฟล์ main.py บน github นี้<br>
 3. ติดตั้ง package ให้ครบทุกตัว <br>
 4. ไม่ต้องใส่ comment เนื่องจากไม่ได้เป็นการเขียนโค้ด
 
